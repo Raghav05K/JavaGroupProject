@@ -13,6 +13,9 @@ public class Main {
 	    
 	    int mul=ca.mul(55, 55);
 	    System.out.println(mul);
+	    
+	    int sub=ca.sub(5656, 1717);
+	    System.out.println(sub);
 	    		
 		
 	}
