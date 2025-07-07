@@ -10,4 +10,11 @@ public class Calculator_Impl implements Calculator{
 		return sum;
 	}
 
+	@Override
+	public int mul(int x, int y) {
+		int mul =x*y;
+		return mul;
+	}
+
+	
 }

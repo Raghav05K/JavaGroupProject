@@ -10,6 +10,10 @@ public class Main {
 		Calculator ca =new Calculator_Impl();
 	    int sum=ca.sum(10, 20);
 	    System.out.println(sum);
+	    
+	    int mul=ca.mul(55, 55);
+	    System.out.println(mul);
+	    		
 		
 	}
 	
